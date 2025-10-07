@@ -1,12 +1,11 @@
 const DEPARTAMENTOS = [
-  "Hardware",
-  "Software",
-  "Periféricos",
-  "Computadores",
-  "Games",
-  "Armazenamento",
-  "Monitores",
-  "Redes",
+  "PROCESSADORES",
+  "ARMAZENAMENTO",
+  "MEMÓRIAS",
+  "PLACA DE VÍDEO",
+  "PERIFERICOS",
+  "FONTES",
+
 ];
  {/* justify-center → centraliza os departamentos */}
 export default function Departamentos() {

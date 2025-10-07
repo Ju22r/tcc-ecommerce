@@ -11,7 +11,7 @@ export default function Footer() {
           /* text-jvm-blue-dark → cor da fonte azul-marinho escuro */
           /* font-headline + font-bold → aplica fonte Teko em negrito */
         >
-          © {new Date().getFullYear()} JVM Equipamentos Eletrônicos — Todos os direitos reservados.
+          © {new Date().getFullYear()} GTECH — Todos os direitos reservados.
         </p>
         
       </div>
